@@ -7,10 +7,10 @@
   <ul>
      A popular mobile phone brand, Lenovo has launched their budget smartphone in the Indian market. The client wants to understand the VOC (voice of the customer) on the product. This will be useful to not just evaluate the current product, but to also get some direction for developing the product pipeline. The client is particularly interested in the different aspects that customers care about. Product reviews by customers on a leading e-commerce site should provide a good view.
   </ul>
-  <ul>
+ 
     <strong> Domain:Amazon reviews for a leading phone brand</strong>
     
-    </ul>
+   
   <p> Analysis to be done: POS tagging, topic modeling using LDA, and topic interpretation</p>
   
   <li>
